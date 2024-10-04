@@ -1,3 +1,1 @@
-# VehicleDetection
-# DetectVehicle
 # DetectVehicle
